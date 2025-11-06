@@ -1,4 +1,3 @@
-# School-Management-System
 # School Management System
 
 A complete school management system web application built with Core PHP and MySQL, featuring multi-session logic for managing academic sessions, students, classes, sections, and teachers.

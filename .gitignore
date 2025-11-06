@@ -1,0 +1,45 @@
+# School Management System - .gitignore
+
+# Sensitive Configuration Files
+database/connection.php
+includes/config.php
+
+# Logs
+logs/
+*.log
+error.log
+
+# Installation Files (should be deleted after setup)
+install.php
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.cache
+*.bak
+*.backup
+
+# PHP Files
+*.phps
+php_errors.log
+
+# Environment Files
+.env
+.env.local
+
+# Uploads (if added in future)
+uploads/
+temp/
